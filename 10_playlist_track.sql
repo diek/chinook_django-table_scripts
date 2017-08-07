@@ -215,9 +215,6 @@ INSERT INTO chinook.public.customer_playlist_track(playlist_id, track_id) VALUES
 INSERT INTO chinook.public.customer_playlist_track(playlist_id, track_id) VALUES (1, 2323);
 INSERT INTO chinook.public.customer_playlist_track(playlist_id, track_id) VALUES (1, 2324);
 INSERT INTO chinook.public.customer_playlist_track(playlist_id, track_id) VALUES (1, 2325);
-
-
-
 INSERT INTO chinook.public.customer_playlist_track(playlist_id, track_id) VALUES (1, 2326);
 INSERT INTO chinook.public.customer_playlist_track(playlist_id, track_id) VALUES (1, 2327);
 INSERT INTO chinook.public.customer_playlist_track(playlist_id, track_id) VALUES (1, 2328);
